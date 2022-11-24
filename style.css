@@ -331,17 +331,3 @@ footer a {
         font-size: 1rem;
     }
 }
-
-@media (max-width:641px) {
-    .hero h2 {
-        font-size: 0.8rem;
-    }
-    .hero h2 span {
-        font-size: 2rem;
-        letter-spacing: 2px;
-    }
-    .hero h3 {
-        letter-spacing: 0;
-        font-size: 1.4;
-    }
-}
