@@ -26,13 +26,13 @@ header a {
 .logo {
     font-size: 2rem;
     font-weight: 700;
-    color: #1da1f2;
+    color: #0071b6;
     text-transform: uppercase;
 }
 
 .nav a {
     font-size: 1.1rem;
-    color: #1da1f2;
+    color: #0071b6;
     font-weight: 500;
     padding-left: 50px;
 }
@@ -57,6 +57,7 @@ section {
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
+    padding-top: 200px;
 }
 
 .hero h2 {
@@ -105,7 +106,7 @@ section {
 
 .media a {
     padding: 0 15px;
-    color: #1da1f2;
+    color: #0071b6;
     font-size: 1rem;
 }
 
@@ -149,7 +150,7 @@ section {
 }
 
 .card i {
-    color: #1da1f2;
+    color: #0071b6;
     margin-bottom: 20px;
     font-size: 8rem;
 }
