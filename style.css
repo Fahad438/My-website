@@ -315,6 +315,7 @@ footer a {
         justify-content: center;
         text-align: center;
         padding-top: 300px;
+        background-attachment: scroll;
     }
     .hero h2 {
         font-size: 1.2rem;
@@ -329,5 +330,8 @@ footer a {
     .btn {
         padding: 1rem 1.8rem;
         font-size: 1rem;
+    }
+    .project {
+        background-attachment: scroll;
     }
 }
